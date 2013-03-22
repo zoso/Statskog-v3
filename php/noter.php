@@ -270,143 +270,143 @@
                             <table width="100%" border="0" cellpadding="4" class="tb">
                                <tr class="bold">
                                   <td width="53%">&nbsp;</td>
-                                  <td colspan="2" class="center small-heading blue">Statskog</td>
                                   <td colspan="2" class="center small-heading orange">Konsern</td>
+                                  <td colspan="2" class="center small-heading blue">Statskog</td>
                                </tr>
                                <tr class="bold">
                                   <td>Kostnadsførte lønns- og personalkostnader:</td>
-                                  <td width="12%" class="right col-grey">2012</td>
-                                  <td width="12%" class="right">2011</td>
                                   <td width="11%" class="right col-grey">2012</td>
+                                  <td width="12%" class="right">2011</td>
+                                  <td width="12%" class="right col-grey">2012</td>
                                   <td width="12%" class="right">2011</td>
                                </tr>
                                <tr>
                                   <td>Lønn</td>
-                                  <td class="right col-grey">69 711</td>
-                                  <td class="right">67 204</td>
                                   <td class="right col-grey">70 348</td>
                                   <td class="right">72 638</td>
+                                  <td class="right col-grey">69 711</td>
+                                  <td class="right">67 204</td>
                                </tr>
                                <tr>
                                   <td>Arbeidsgiveravgift</td>
-                                  <td class="right col-grey">5 883</td>
-                                  <td class="right">4 643</td>
                                   <td class="right col-grey">6 027</td>
                                   <td class="right">5 467</td>
+                                  <td class="right col-grey">5 883</td>
+                                  <td class="right">4 643</td>
                                </tr>
                                <tr>
                                   <td>Pensjonskostnad inkl. arbeidsgiveravgift</td>
                                   <td class="right col-grey">16 010</td>
-                                  <td class="right">6 670</td>
-                                  <td class="right col-grey">16 010</td>
                                   <td class="right">6 723</td>
+                                  <td class="right col-grey">16 010</td>
+                                  <td class="right">6 670</td>
                                </tr>
                                <tr>
                                   <td>Annen godtgjørelse</td>
                                   <td class="right col-grey">442</td>
-                                  <td class="right">416</td>
-                                  <td class="right col-grey">442</td>
                                   <td class="right">461</td>
+                                  <td class="right col-grey">442</td>
+                                  <td class="right">416</td>
                                </tr>
                                <tr>
                                   <td>Annen personalkostnad</td>
                                   <td class="right col-grey">2 457</td>
-                                  <td class="right">7 547</td>
-                                  <td class="right col-grey">2 457</td>
                                   <td class="right">8 475</td>
+                                  <td class="right col-grey">2 457</td>
+                                  <td class="right">7 547</td>
                                </tr>
                                <tr class="line-over-under bold">
                                   <td>Sum lønnskostnad</td>
-                                  <td class="right col-grey">94 503</td>
-                                  <td class="right">86 480</td>
                                   <td class="right col-grey">95 284</td>
                                   <td class="right">93 764</td>
+                                  <td class="right col-grey">94 503</td>
+                                  <td class="right">86 480</td>
                                </tr>
                                <tr>
                                   <td colspan="5">&nbsp;</td>
                                </tr>
                                <tr>
                                   <td>Antall ansatte</td>
-                                  <td class="right col-grey">136</td>
-                                  <td class="right">133</td>
                                   <td class="right col-grey">137</td>
                                   <td class="right">142</td>
+                                  <td class="right col-grey">136</td>
+                                  <td class="right">133</td>
                                </tr>
                                <tr>
                                   <td colspan="5">&nbsp;</td>
                                </tr>
                                <tr class="bold">
                                   <td>Ledende ansatte 2012</td>
-                                  <td class="right col-grey">Lønn/honorar</td>
-                                  <td class="right">Pensjon</td>
                                   <td class="right col-grey">Naturalytelser</td>
                                   <td class="right">Sum</td>
+                                  <td class="right col-grey">Lønn/honorar</td>
+                                  <td class="right">Pensjon</td>
                                </tr>
                                <tr>
                                   <td>Administrerende direktør</td>
-                                  <td class="right col-grey">1 272</td>
-                                  <td class="right">244</td>
                                   <td class="right col-grey">178</td>
                                   <td class="right">1 694</td>
+                                  <td class="right col-grey">1 272</td>
+                                  <td class="right">244</td>
                                </tr>
                                <tr>
                                   <td>Finansdirektør</td>
-                                  <td class="right col-grey">1 130</td>
-                                  <td class="right">129</td>
                                   <td class="right col-grey">13</td>
                                   <td class="right">1 272</td>
+                                  <td class="right col-grey">1 130</td>
+                                  <td class="right">129</td>
                                </tr>
                                <tr>
                                   <td>Styret</td>
-                                  <td class="right col-grey">600</td>
-                                  <td>&nbsp;</td>
                                   <td class="right col-grey"></td>
                                   <td class="right">600</td>
+                                  <td class="right col-grey">600</td>
+                                  <td>&nbsp;</td>
                                </tr>
                                <tr class="line-over-under bold">
                                   <td>Sum</td>
-                                  <td class="right col-grey">3 002</td>
-                                  <td class="right">373</td>
                                   <td class="right col-grey">191</td>
                                   <td class="right">3 566</td>
+                                  <td class="right col-grey">3 002</td>
+                                  <td class="right">373</td>
                                </tr>
                                <tr>
                                   <td colspan="5">&nbsp;</td>
                                </tr>
                                <tr class="bold">
                                   <td>Ledende ansatte 2011</td>
-                                  <td class="right col-grey">Lønn/honorar</td>
-                                  <td class="right">Pensjon</td>
                                   <td class="right col-grey">Naturalytelser</td>
                                   <td class="right">Sum</td>
+                                  <td class="right col-grey">Lønn/honorar</td>
+                                  <td class="right">Pensjon</td>
                                </tr>
                                <tr>
                                   <td>Administrerende direktør</td>
-                                  <td class="right col-grey">1 172</td>
-                                  <td class="right">156</td>
                                   <td class="right col-grey">168</td>
                                   <td class="right">1 496</td>
+                                  <td class="right col-grey">1 172</td>
+                                  <td class="right">156</td>
                                </tr>
                                <tr>
                                   <td>Finansdirektør</td>
-                                  <td class="right col-grey">1 038</td>
-                                  <td class="right">109</td>
                                   <td class="right col-grey">12</td>
                                   <td class="right">1 159</td>
+                                  <td class="right col-grey">1 038</td>
+                                  <td class="right">109</td>
                                </tr>
                                <tr>
                                   <td>Styret</td>
-                                  <td class="right col-grey">715</td>
-                                  <td>&nbsp;</td>
                                   <td class="col-grey">&nbsp;</td>
                                   <td class="right">715</td>
+                                  <td class="right col-grey">715</td>
+                                  <td>&nbsp;</td>
                                </tr>
                                <tr class="line-over-under bold">
                                   <td>Sum</td>
-                                  <td class="right col-grey">2 925</td>
-                                  <td class="right">265</td>
                                   <td class="right col-grey">180</td>
                                   <td class="right">3 370</td>
+                                  <td class="right col-grey">2 925</td>
+                                  <td class="right">265</td>
                                </tr>
                                <tr>
                                   <td colspan="5">&nbsp;</td>
